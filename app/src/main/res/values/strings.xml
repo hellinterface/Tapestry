@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tapestry</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_cassettes">Кассеты</string>
+    <string name="menu_models">Модели кассет</string>
+    <string name="menu_tracks">Композиции</string>
+    <string name="menu_boxes">Коллекции</string>
+
+    <string name="sample_tapeTitle">My awesome tape</string>
+    <string name="prefix_tapeKind">Модель: </string>
+    <string name="prefix_tapeRatingPhysical">Состояние: </string>
+    <string name="prefix_tapeRatingAudio">Качество звучания: </string>
+    <string name="prefix_tapeTapeType">Тип ленты: </string>
+    <string name="prefix_tapeLength">Длина: </string>
+
+    <string name="fieldName_cassette_cid">ID</string>
+    <string name="fieldName_cassette_title">Название</string>
+    <string name="fieldName_cassette_model">Модель</string>
+    <string name="fieldName_cassette_ratingPhysical">Состояние</string>
+    <string name="fieldName_cassette_ratingAudio">Качество звучания</string>
+    <string name="fieldName_cassette_box">Коллекция</string>
+
+    <string name="sideA">Сторона A</string>
+    <string name="sideB">Сторона B</string>
+</resources>
